@@ -1,3 +1,5 @@
+;;; indent.el --- Make sure forms from other packages are indented -*- lexical-binding: t -*-
+
 ;; You can load this file to make sure that forms from other packages
 ;; are indented correctly. It should cause the indentation to be the
 ;; same as if you had actually loaded the packages that define these
